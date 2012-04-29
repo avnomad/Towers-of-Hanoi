@@ -1,0 +1,8 @@
+syntax: regexp
+Debug/*
+Release/*
+ipch/*
+syntax: glob
+Towers of Hanoi.sdf
+Towers of Hanoi.suo
+Towers of Hanoi.opensdf
